@@ -1,0 +1,1 @@
+Classpath is empty. Please build the project first e.g. by running './gradlew jar -PscalaVersion=2.12.10'

@@ -1,0 +1,3 @@
+run test file1.csv
+run topic1 file1.csv
+run topic2 file1.csv

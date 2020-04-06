@@ -1,0 +1,14 @@
+run 10 30
+q
+run 10 30
+run test 10 30
+run rtran 10 1
+exit
+run rtran 10 50
+run rtran 10 1
+exit
+run rtrann 10 1
+exit
+run rtrann 10 1 
+run rtrann 100 20
+exit

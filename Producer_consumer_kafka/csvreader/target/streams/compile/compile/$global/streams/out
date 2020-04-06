@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/csvreader/src/main/scala/example/Main.scala:37:15: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      producer.send(record)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

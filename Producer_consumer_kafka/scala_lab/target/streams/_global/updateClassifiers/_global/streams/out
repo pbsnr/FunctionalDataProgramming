@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/rafa/Desktop/ScalaLab/Repo%20github/Func_Prog_EFREI_2021/Producer_consumer_kafka/scala_lab/"), "scala_lab")...
+[debug] Done updating ProjectRef(uri("file:/home/rafa/Desktop/ScalaLab/Repo%20github/Func_Prog_EFREI_2021/Producer_consumer_kafka/scala_lab/"), "scala_lab")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:3:14: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m  import org.apache.log4j.BasicConfigurator[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:4:3: not found: value BasicConfigurator[0m
+[0m[[0m[31merror[0m] [0m[0m  BasicConfigurator.configure()[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:6:14: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m  import org.apache.kafka.clients.producer._[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:19:22: not found: type KafkaProducer[0m
+[0m[[0m[31merror[0m] [0m[0m  val producer = new KafkaProducer[String, String](props)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:71:22: not found: type ProducerRecord[0m
+[0m[[0m[31merror[0m] [0m[0m    val record = new ProducerRecord(TOPIC, "key", violation_message)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/paul/FDP/dronesimulator/src/main/scala/example/Main.scala:78:22: not found: type ProducerRecord[0m
+[0m[[0m[31merror[0m] [0m[0m    val record = new ProducerRecord(TOPIC, "key", regular_message)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

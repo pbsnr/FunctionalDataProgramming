@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala_lab / Compile / run] Found inputs: /home/rafa/Desktop/ScalaLab/scala_lab/*.{java,scala},/home/rafa/Desktop/ScalaLab/scala_lab/src/main/java/**/*.{java,scala},/home/rafa/Desktop/ScalaLab/scala_lab/src/main/resources/**/*,/home/rafa/Desktop/ScalaLab/scala_lab/src/main/scala/**/*.{java,scala},/home/rafa/Desktop/ScalaLab/scala_lab/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala_lab/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
